@@ -44,7 +44,7 @@ import Img from'gatsby-image'
                      data-item-name={course.node.title}
                       data-item-price={course.node.price}
                       
-    data-item-url="https://courses.learncodeonline.in"
+    data-item-url="https://coolearning.netlify.com/"
                     >buy now</button>
                     
                     </div>
