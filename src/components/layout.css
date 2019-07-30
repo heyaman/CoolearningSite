@@ -1,0 +1,80 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Overpass&display=swap');
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.footer-text{
+  font-family: 'Overpass',
+  sans-serif;
+}
+.bgtheme{
+  background-color:#22a6b3;
+}
+#logo{
+  height: 40px;
+  width: 40px;
+}
+.size{
+  height: 25px;
+  color: #2C3335;
+  width: 25px;
+
+}
+
+.bgi{
+  min-height: 100vh;
+  background-image: url("../images/bg.png");
+  display: flex;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+  justify-content:center;
+  align-items: center;
+  flex-direction: column;
+}
+.infotheme{
+  background-color:#34495e;
+}
+
+.wordstheme{
+  background-color:#22A6B3;
+  /* border:3px solid red; */
+}
+.card{
+  width: 16rem;
+  /* height: 12rem; */
+  /* border: 0; */
+}
+.cardbtn{
+  border: 0;
+  border-radius: 7px;
+  background-color:#ff7979;
+}
+.card-title{
+  border-bottom: 2px solid beige;
+}
+.team{
+  /* border:3px solid red; */
+  
+
+}
+.aboutBg{
+    min-height: 30vh;
+    background-image: url("../images/about.png");
+    display: flex;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+}
