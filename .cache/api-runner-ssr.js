@@ -6,7 +6,7 @@ var plugins = [{
       options: {"plugins":[],"name":"gatsby-starter-default","short_name":"starter","start_url":"/","background_color":"#663399","theme_color":"#663399","display":"minimal-ui"},
     },{
       plugin: require('C:/Users/hp/Desktop/LCO/eLearning/node_modules/gatsby-plugin-snipcart/gatsby-ssr'),
-      options: {"plugins":[],"apiKey":"process.env.SNIPCART_APIKEY","autopop":true},
+      options: {"plugins":[],"apiKey":"NmZjNGQzNTMtY2YzNS00NWI5LTlmMDYtNDNmNDdjNTMyYTkwNjM3MDAwOTAxOTkzNDAwMzM0","autopop":true},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [
