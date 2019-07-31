@@ -39,7 +39,7 @@ import Img from'gatsby-image'
                     <h6 className="mb-0">{course.node.title}</h6>
                     <h6 className="mb-0 text-success">${course.node.price}</h6>
                     </div>
-                    <button className="btn btn-warning snipcart-add-item"
+                    <button className="btn btn-warning snipcart-add-item my-3"
                     data-item-id = {course.node.id}
                      data-item-name={course.node.title}
                       data-item-price={course.node.price}

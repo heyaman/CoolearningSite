@@ -32,7 +32,7 @@ body {
 
 .bgi{
   min-height: 100vh;
-  background-image: url("../images/bg.png");
+  background-image: url("https://images.pexels.com/photos/1435192/pexels-photo-1435192.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
   display: flex;
    background-position: center;
    background-repeat: no-repeat;
